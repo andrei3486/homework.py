@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21MNB6vEIeT9PktrAuo9ueWMugX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -29,7 +29,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../My_project" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="L3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
